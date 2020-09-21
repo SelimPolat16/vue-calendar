@@ -256,7 +256,7 @@ export default {
         this.end = '',
         this.color = ''
       } else {
-        alert('You must enter event name, start, and end time')
+        alert('Etkinlik adını, başlangıç ​​ve bitiş saatini girmelisiniz')
       }
     },
     editEvent (ev) {
